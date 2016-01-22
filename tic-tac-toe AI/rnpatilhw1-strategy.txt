@@ -1,0 +1,59 @@
+PART |:
+
+Paul Allen's AI institute built a system called Aristo which is used to solve standardized exams for students like the New York Regents Science Test for fourth graders. Since we have to take performance on these tests is to be a factor to measure the AI system’s ability comparing Aristo and Turing test, following PROS AND CONS of Paul Allen’s Aristo can be taken in consideration.
+
+PROS:
+-Aristo Challenge aims to make significant progress in the areas of knowledge, modelling, reasoning, and language. This system particularly stresses on giving correct answers unlike the Turing test which at times uses trickery to prove that it is human.
+-Many questions which are presented in these tests do not have their answers written down somewhere. These answer are based on knowledge application and a set of rational reasoning decisions taken thus supporting incremental progress. Thus this system comes out to be a learning system than just a test for identification of man or machine. 
+-Aristo Challenge presents a diagrammatic representation which gives an added benefit to question-answering.Spatial representation and graphical visualisation, gives an outlook of an advanced intelligent system working behind it.
+-It has a wide learning curve unlike the Turing Test. Aristo provides a clear progression from simple problems to those which require in-depth knowledge and reasoning abilities.
+
+CONS:
+-Paul Allen's system does not necessarily cover all aspects of intelligence. One to one dialog which is evident in the Turing test is vaguely represented in Aristo's Question and Answer System.
+-Aristo therefore cannot be thought of a true test of artificial intelligence, in other words, it are necessary but not sufficient. Paul Allen's system is not the best judge of AI system's ability. 
+-Aristo has no scope of trickery, it will not guess or fake any answer if it has no knowledge about the question.  
+
+
+
+
+PART || : TIC TAC TOE MOVE GENERATOR.
+
+Program Flow:
+
+-Tic Tac Toe Move Generator is a game played between Human and Artificial Intelligent Agent (AI).
+-Game begins with human asked to input what sign he will like to play 'X' or 'O'.
+-Based of the human input, 'X' gets to play first.
+-Game continues till we have a Winner or it is a DRAW.
+-Post this decision, User is given an option to play again or quit.
+
+Artificial Intelligence Strategy and Flow:
+
+-Artificial Intelligence is implemented in a sequence of conditional check to pick up the right move.
+-Whenever there is match found for any condition in the flow, the respective move is picked.
+-If there is no matching condition found, AI can pick any random yet legal move and we can go ahead with the game.
+
+-Sequential flow of conditions is a follows:
+
+
+Condition 1. Win Condition: 
+If the AI has two of its sign in a row, AI will the third to get three in a row and win.
+
+Condition 2. Block Condition: 
+If the Human has two of its sign in a row, AI will pick the third spot in the sequence and block human win.
+
+Condition 3. Block Corner: 
+If the Human picks the center square, AI will place a its sign in the any one of the four corners. Now whatever spot human picks in the next move, AI will block using the Condition 2 thus blocking a fork situation for the human.
+
+Condition 4. Center Spot: 
+If the center spot is not yet taken, AI will pick the center square to improve the chances of a win.
+
+Condition 5. Block Corner if human picks up a middle sqaure of a side:
+If any side's middle square is of human, AI will pick one open spot amongst the two corners of square. Thus AI can stop a fork situation for the human.
+
+
+Condition 6. Block Sides if:
+If center square is of AI and human picks up a corner spot, AI will pick one open spot amongst the two middle side spots of the corner spot. This will force Human to block AI in the next move from a direct win and thus AI prevents a fork situation for the human.
+
+Condition 7. Any Legal Move :
+If no conditions mentioned above are met, AI will pick one random spot in the range 1 to 9 whichever is open.
+

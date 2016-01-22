@@ -1,0 +1,325 @@
+Python 2.6.6 (r266:84297, Aug 24 2010, 18:13:38) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+
+    ****************************************************************
+    Personal firewall software may warn about the connection IDLE
+    makes to its subprocess using this computer's internal loopback
+    interface.  This connection is not visible on any external
+    interface and no data is sent to or received from the Internet.
+    ****************************************************************
+    
+IDLE 2.6.6      ==== No Subprocess ====
+>>> 
+Welcome to Tic Tac Toe Move Generator..
+  |   |   
+  |   |   
+  |   |   
+
+
+What will you play? 'X' or 'O' x
+Ok, You are X.. 
+
+X always plays first.....!!! 
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 3
+  |   |   
+  |   |   
+  |   | X 
+
+
+My Move.....!!
+  |   |   
+  | O |   
+  |   | X 
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 9
+  |   | X 
+  | O |   
+  |   | X 
+
+
+My Move.....!!
+  |   | X 
+  | O | O 
+  |   | X 
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 4
+  |   | X 
+X | O | O 
+  |   | X 
+
+
+My Move.....!!
+  |   | X 
+X | O | O 
+O |   | X 
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 7
+X |   | X 
+X | O | O 
+O |   | X 
+
+
+My Move.....!!
+X | O | X 
+X | O | O 
+O |   | X 
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 2
+X | O | X 
+X | O | O 
+O | X | X 
+
+
+Hahaha....It is a Draw
+
+Play again?  'Y' or 'N' y
+Welcome to Tic Tac Toe Move Generator..
+  |   |   
+  |   |   
+  |   |   
+
+
+What will you play? 'X' or 'O' o
+Ok, You are O.. 
+
+X always plays first.....!!! 
+
+My Move.....!!
+  |   |   
+  | X |   
+  |   |   
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 4
+  |   |   
+O | X |   
+  |   |   
+
+
+My Move.....!!
+  |   |   
+O | X |   
+X |   |   
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 9
+  |   | O 
+O | X |   
+X |   |   
+
+
+My Move.....!!
+X |   | O 
+O | X |   
+X |   |   
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 3
+X |   | O 
+O | X |   
+X |   | O 
+
+
+My Move.....!!
+X |   | O 
+O | X | X 
+X |   | O 
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 2
+X |   | O 
+O | X | X 
+X | O | O 
+
+
+My Move.....!!
+X | X | O 
+O | X | X 
+X | O | O 
+
+
+Hahaha....It is a Draw
+
+Play again?  'Y' or 'N' y
+Welcome to Tic Tac Toe Move Generator..
+  |   |   
+  |   |   
+  |   |   
+
+
+What will you play? 'X' or 'O' x
+Ok, You are X.. 
+
+X always plays first.....!!! 
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 2
+  |   |   
+  |   |   
+  | X |   
+
+
+My Move.....!!
+  |   |   
+  | O |   
+  | X |   
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 2
+Sorry, this position is already taken...... 
+ 
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 3
+  |   |   
+  | O |   
+  | X | X 
+
+
+My Move.....!!
+  |   |   
+  | O |   
+O | X | X 
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 9
+  |   | X 
+  | O |   
+O | X | X 
+
+
+My Move.....!!
+  |   | X 
+  | O | O 
+O | X | X 
+
+
+Your move...?
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3 
+
+
+Select: 8
+  | X | X 
+  | O | O 
+O | X | X 
+
+
+My Move.....!!
+  | X | X 
+O | O | O 
+O | X | X 
+
+
+O  won..!!
+
+Play again?  'Y' or 'N' n
+---THE END---
+>>> 

@@ -1,0 +1,90 @@
+﻿Doing Depth First Search  on easy:
+The solution's cost is: 2.1, and involved expanding 53 verticies
+Finding the solution involved 0.0128681659698 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on easy:
+The solution's cost is: 2.1, and involved expanding 10 verticies
+Finding the solution involved 0.00220894813538 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h_euclidean on easy:
+The solution's cost is: 2.1, and involved expanding 22 verticies
+Finding the solution involved 0.00666809082031 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h_euclidean on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+Finding the solution involved 0.000741958618164 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h_manhattan on easy:
+The solution's cost is: 2.1, and involved expanding 22 verticies
+Finding the solution involved 0.00528597831726 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h_manhattan on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+Finding the solution involved 0.000729084014893 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Depth First Search  on medium:
+Ran out of time for thinking
+The queue is of size: 2234
+----------------------------------------------------------------------------------
+Doing Breadth First Search on medium:
+Ran out of time for thinking
+The queue is of size: 3948
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h_euclidean on medium:
+The solution's cost is: 21.3, and involved expanding 63 verticies
+Finding the solution involved 0.0211231708527 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h_euclidean on medium:
+The solution's cost is: 17.3, and involved expanding 4270 verticies
+Finding the solution involved 17.4105598927 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h_manhattan on medium:
+The solution's cost is: 21.3, and involved expanding 64 verticies
+Finding the solution involved 0.0213069915771 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h_manhattan on medium:
+The solution's cost is: 17.3, and involved expanding 1610 verticies
+Finding the solution involved 2.96251511574 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Depth First Search  on hard:
+Ran out of time for thinking
+The queue is of size: 4962
+----------------------------------------------------------------------------------
+Doing Breadth First Search on hard:
+Ran out of time for thinking
+The queue is of size: 8394
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h_euclidean on hard:
+The solution's cost is: 152.9, and involved expanding 7359 verticies
+Finding the solution involved 42.4859509468 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h_euclidean on hard:
+Ran out of time for thinking
+The queue is of size: 8341
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h_manhattan on hard:
+The solution's cost is: 189.9, and involved expanding 7335 verticies
+Finding the solution involved 42.7348179817 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h_manhattan on hard:
+The solution's cost is: 40.3, and involved expanding 8590 verticies
+Finding the solution involved 93.5507459641 seconds of walltime
+----------------------------------------------------------------------------------
+DFS is mistyrose
+BFS is purple
+Best_h_euclidean is springgreen
+A*_h_euclidean is mediumaquamarine
+Best_h_manhattan is tan
+A*_h_manhattan is darkorange
+DFS is mistyrose
+BFS is purple
+Best_h_euclidean is springgreen
+A*_h_euclidean is mediumaquamarine
+Best_h_manhattan is tan
+A*_h_manhattan is darkorange
+DFS is mistyrose
+BFS is purple
+Best_h_euclidean is springgreen
+A*_h_euclidean is mediumaquamarine
+Best_h_manhattan is tan
+A*_h_manhattan is darkorange

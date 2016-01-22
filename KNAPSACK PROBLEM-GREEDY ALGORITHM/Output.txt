@@ -1,0 +1,10 @@
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 13 with high score 160.0 and chromosome [1 0 0 1 0 0 1 1 0 1 1 0 1 0 1 0 0 1 0 1 0]
+Best year for difficulty hard is 29 with high score 16343.6633119 and chromosome [0 1 1 1 1 1 0 1 0 1 0 1 0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1
+ 1 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 0 1 1 1 0 1 1]
+
+
+
+
